@@ -1,6 +1,6 @@
 <h1>Welcome to Waiter</h1>
 <h3><em>Add yourself to the list and avoid the wait</em></h3>
-<p>Waiter is an app that allows diners to view and join restaurant wait lists built as my group capstone project for devCodeCamp. Waiter was built in 1 week using ASP.NET MVC5 and Entity Framework. Waiter implements 4 APIs:</p>
+<p>Waiter is an app that allows diners to view and join restaurant wait lists built as my group capstone project for devCodeCamp. Waiter was built by myself and 2 other developers in 1 week using ASP.NET MVC5 and Entity Framework. Waiter implements 4 APIs:</p>
 <ul>
 	<li><strong>Google Maps API</strong> &mdash; <em>for geolocating and searching addresses and displaying maps</em></li>
 	<li><strong>Stripe API</strong> &mdash; <em>for processing payments and managing paid subscriptions</em></li>
